@@ -1,0 +1,25 @@
+MODSUP
+IJK -y +x -z
+LIST   26 "woburn.out"
+BAS1    1 "woburn.bas"
+BCF3   17 "woburn.bcf"
+OUT1   18 "woburn.oc"
+HEAD  -12 "woburn.hed"
+DRAW  -11 "woburn.drw"
+CCF   -19 "woburn19.ccf"
+SIP1   15 "woburn.sip"
+RIV1   31 "woburn.riv"
+WEL1   32 "woburn.wel"
+RCH1   14 "woburn.rch"
+ORIG 1062811 15438684 0
+ROTZ 16
+LAYER   0       40.000000 (10G15.6)
+DMAT 1
+MPSC 1 0 0
+MTRN 1 0 0
+MHC 1 0 0
+MBE 1 0 0
+MLK 1 0 0
+MSSC 1 0 0
+MTE 1 0 0
+MWDF 1 0 0
