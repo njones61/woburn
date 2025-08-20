@@ -15,11 +15,7 @@ build:
 mkdocs:
   configuration: mkdocs.yml
 
-# Optionally, set the version of pip, setuptools and other
-# tools you might need
+# Install dependencies from requirements.txt
 python:
   install:
-    - method: pip
-      path: .
-      extra_requirements:
-        - docs 
+    - requirements: requirements.txt 
