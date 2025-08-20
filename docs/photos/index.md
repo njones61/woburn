@@ -2,32 +2,30 @@
 
 ## Photographic Documentation
 
-This section contains great photos of the Woburn site, providing visual documentation of the area and investigation.
+This page contains a series of photos of significant buildings, locations, and sites related to the Woburn case. It includes photos of the people involved in the case and a photographic record of Aberjona site during the site investigation.
 
-## Site Photos
+## Photo Collections
 
-[General site photos to be added]
+- **[People](people/index.md)** - Photos of individuals involved in the case
+- **[Places](places/index.md)** - Photos of significant locations and buildings
+- **[Site Investigation](siteinvest/index.md)** - Photographic record of the Aberjona site investigation
+- **[Jeff Davis, Alan Lemon Photos](rjdphotos/index.md)** - Additional photos from Jeff Davis and Alan Lemon
+- **[Woburn Virtual Tour](../tour/index.md)** - Interactive tour with location-specific photos
 
-## Aerial Photography
+## Photo Categories
 
-[Two new aerial photos in JPEG format to be added]
+### People
+Photos of the key individuals involved in the Woburn case, including researchers, investigators, and community members.
 
-## Investigation Photos
+### Places
+Photographic documentation of significant locations, buildings, and sites related to the contamination investigation.
 
-[Photos from the investigation process to be added]
+### Site Investigation
+Comprehensive photographic record of the Aberjona site during the investigation process, showing the physical conditions and sampling activities.
 
-## Historical Photos
-
-[Historical photos of the site to be added]
-
-## Photo Collections by Category
-
-[Photos organized by category to be added]
-
-## High Resolution Downloads
-
-[High resolution photo download options to be added]
+### Additional Collections
+Additional photo collections from various sources, providing different perspectives on the site and investigation.
 
 ---
 
-*This photo gallery section is under development. Content will be populated from the original Woburn website.* 
+*Content extracted from the original Woburn website* 

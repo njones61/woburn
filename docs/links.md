@@ -2,32 +2,32 @@
 
 ## Additional Resources and References
 
-This page provides links to additional resources, references, and related materials about the Woburn site.
+Here are some links to interesting sites related to the Woburn case. If you know of any sites we are missing, let [me](mailto:njones@byu.edu) know.
 
-## Related Publications
+## Educational Resources
 
-[Related publications and papers to be added]
+- **[Scott Bair's Science in the Courtroom course web site](http://serc.carleton.edu/woburn/)** - This site includes an image gallery of all the people and places involved in the story of Woburn's contamination.
 
-## Government Resources
+## Legal and Academic Resources
 
-[Government agency resources and links to be added]
+- **[Lessons From Woburn](http://cyber.law.harvard.edu/acivilaction/)** - This site is maintained by the Berkman Center for Internet and Society at Harvard Law School. The purpose of the site is to provide resources for individuals interested in using *A Civil Action* as a tool for learning about law.
 
-## Academic Resources
+## Case Analysis and Documentation
 
-[Academic and research resources to be added]
+- **[Death and Justice: Environmental tragedy and the limits of science](http://home.comcast.net/~dkennedy56/woburn_trial.html)** - Great summary of the case by Dan Kennedy.
 
-## Legal Resources
+## Government and Community
 
-[Legal case resources and documents to be added]
+- **[City of Woburn](http://www.ci.woburn.ma.us/)** - Home Page
 
-## Media Coverage
+## Media and Entertainment
 
-[Media coverage and documentary resources to be added]
+- **[A Civil Action, the movie](http://www.imdb.com/title/tt0120633/)** - A description of the movie starring John Travolta.
 
-## Contact Information
+## Scientific Research
 
-[Contact information for researchers and organizations to be added]
+- **[Hair Analysis Does Not Support Hypothesized Arsenic and Chromium Exposure from Drinking Water in Woburn, Massachusetts](http://ehpnet1.niehs.nih.gov/docs/1997/105-10/rogers.html)** - Research paper on hair analysis findings related to the Woburn case.
 
 ---
 
-*This links section is under development. Content will be populated from the original Woburn website.* 
+*Content extracted from the original Woburn website* 

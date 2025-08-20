@@ -2,24 +2,21 @@
 
 ## GeoTrans Analysis
 
-This section contains GeoTrans analysis and data related to the Woburn site investigation.
+HSI GeoTrans was one of the companies that studied the Woburn site for the trial. This is a newsletter describing the project and some of its findings. This is only a brief overview and little actual test data are given, but you may find it interesting.
 
-## Analysis Reports
+We would like to thank Jack Guswa for making this newsletter available.
 
-[GeoTrans analysis reports to be added]
+## GeoTrans Newsletter
 
-## Data Sets
+- **[Geotrans Newsletter, page 1](geotrans1.jpg)**
+- **[Geotrans Newsletter, page 2](geotrans2.jpg)**
+- **[Geotrans Newsletter, page 3](geotrans3.jpg)**
+- **[Geotrans Newsletter, page 4](geotrans4.jpg)**
 
-[GeoTrans data sets to be added]
+## About the Newsletter
 
-## Methodology
-
-[Analysis methodology and approach to be added]
-
-## Results
-
-[Key findings and results to be added]
+The GeoTrans newsletter provides insights into their investigation approach and preliminary findings at the Woburn site. While it contains limited technical data, it offers valuable context about the investigation process and methodology used by one of the key consulting firms involved in the case.
 
 ---
 
-*This GeoTrans section is under development. Content will be populated from the original Woburn website.* 
+*Content extracted from the original Woburn website* 
