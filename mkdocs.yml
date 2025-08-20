@@ -29,18 +29,5 @@ markdown_extensions:
   - codehilite
   - footnotes
   - meta
-  - pymdownx.caret
-  - pymdownx.details
-  - pymdownx.emoji
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.snippets
-  - pymdownx.superfences
-  - pymdownx.tabbed
-  - pymdownx.tasklist
-  - pymdownx.tilde
   - toc:
       permalink: true 
