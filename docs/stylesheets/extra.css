@@ -1,0 +1,4 @@
+/* Make ReadTheDocs theme wider - same as vbaprimer repository */
+.wy-nav-content {
+    max-width: 1000px !important;
+}

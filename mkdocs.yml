@@ -8,6 +8,9 @@ repo_url: https://github.com/njones61/woburn
 
 theme: readthedocs
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - Home: index.md
   - Brief History: briefhistory.md
